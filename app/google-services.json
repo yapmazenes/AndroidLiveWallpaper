@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "220990095996",
+    "firebase_url": "https://androidlivewallpaper-97c76.firebaseio.com",
+    "project_id": "androidlivewallpaper-97c76",
+    "storage_bucket": "androidlivewallpaper-97c76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220990095996:android:7956b47970c985fd",
+        "android_client_info": {
+          "package_name": "com.example.hp.androidlivewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220990095996-9v95tpk69kijftugltmc2i6s65rdg613.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.androidlivewallpaper",
+            "certificate_hash": "b348cff57e3e2c2cd038827a20f18085d1bd7b82"
+          }
+        },
+        {
+          "client_id": "220990095996-ngbjg1ck9q0c5po51rdaofb3o0kh13p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Your FireBase key"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220990095996-ngbjg1ck9q0c5po51rdaofb3o0kh13p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
